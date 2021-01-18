@@ -1,0 +1,1 @@
+counter-app = Value: { $count }
